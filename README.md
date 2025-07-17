@@ -1,2 +1,1 @@
-# bocilnekat
-bocilnekat
+# [bocilnekat](https://bocilnekat.pages.dev)
